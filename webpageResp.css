@@ -164,7 +164,7 @@ body{
 }
 
 /* for responsive */
-@media(max-width:1600px){
+@media(max-width:1500px){
     .parent{
         flex-direction: column;
     }
