@@ -179,6 +179,10 @@ body{
     .contain{
         flex-direction: column;
     }
+    .content{
+        margin: 4px;
+        padding: 10px;
+    }
 }
 @media(max-width:520px){
     .contain{
@@ -201,6 +205,9 @@ body{
     } 
     .item p{
         text-align: center;
+    }
+    .content{
+        margin: 0px;
     }
 }
 
